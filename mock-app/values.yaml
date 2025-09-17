@@ -1,5 +1,5 @@
 appName: mock-app
-message: "Interesting learning curve. we have learnt how to make cuse of ArgoCd with the helm to keep our application updated whenever changes are made to github!"
+message: "Interesting learning curve. we have learnt how to make cuse of ArgoCd with the helm to keep our application updated whenever changes are made to github!!!!"
 image:
   repository: benmalekarim/mock-app
   tag: v1.0.0
